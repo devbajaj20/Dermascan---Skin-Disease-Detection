@@ -44,14 +44,20 @@ The application will start running on `http://127.0.0.1:5000` (localhost:5000)
 3. Click on "Analyze" to get the prediction
 4. View the results and recommendations
 
-# User Registeration Page 
+## User Registeration Page 
 ![Screenshot 2025-05-03 222928](https://github.com/user-attachments/assets/421c5457-06a2-4e5e-a2b6-e2f3487d694f)
 
-# Login Page
+## Login Page
 ![Screenshot 2025-05-03 222916](https://github.com/user-attachments/assets/ab006a7b-5d65-4490-98d0-ffc72e84c264)
 
-# Home Page
+## Home Page
 ![home](https://github.com/user-attachments/assets/b5dacfce-faf2-44a2-9722-b6996f6d49e9)
+
+## Skin Disease Diganosis Page
+![Screenshot 2025-05-03 224105](https://github.com/user-attachments/assets/37dd61ff-cf6e-48cf-bea1-f09c5b84f90c)
+
+## Skin Disease Result Page
+![Screenshot 2025-05-03 224145](https://github.com/user-attachments/assets/2c2ac40e-1f9d-46b4-bb00-4c58a417c0a2)
 
 ## 🛠️ Technology Stack
 
