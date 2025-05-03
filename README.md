@@ -1,6 +1,49 @@
 # Dermascan---Skin-Disease-Detection
 Dermascan is an AI-powered web-based application designed to detect common skin diseases from images using deep learning techniques. It helps users analyze skin conditions and provides preliminary diagnostic support, promoting early detection and better skincare.
 
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.8 or higher
+- Git
+- pip (Python package installer)
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/devbajaj20/Dermascan---Skin-Disease-Detection.git
+cd Dermascan---Skin-Disease-Detection
+```
+
+### Step 2: Create and Activate Virtual Environment
+For Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+For Linux/Mac:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+### Step 3: Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4: Run the Application
+```bash
+python app.py
+```
+
+The application will start running on `http://127.0.0.1:5000` (localhost:5000)
+
+### Step 5: Using the Application
+1. Open your web browser and go to `http://127.0.0.1:5000`
+2. Upload an image of the skin condition you want to analyze
+3. Click on "Analyze" to get the prediction
+4. View the results and recommendations
+
 # User Registeration Page 
 ![Screenshot 2025-05-03 222928](https://github.com/user-attachments/assets/421c5457-06a2-4e5e-a2b6-e2f3487d694f)
 
