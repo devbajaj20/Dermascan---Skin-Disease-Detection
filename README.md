@@ -64,7 +64,7 @@ The application will start running on `http://127.0.0.1:5000` (localhost:5000)
 ### 💻 Frontend
 - **HTML5** – For structuring web content.
 - **CSS3** – For styling the web interface.
-- **Bootstrap** – For responsive UI design.
+- **Bootstrap** – For responsive UI design (if used).
 
 ### ⚙️ Backend
 - **Python** – Core programming language.
@@ -75,6 +75,14 @@ The application will start running on `http://127.0.0.1:5000` (localhost:5000)
 - **Keras** – High-level API used with TensorFlow.
 - **NumPy / Pandas** – For image preprocessing and dataset manipulation.
 - **OpenCV / PIL** – For handling and transforming images.
+
+### 📊 Evaluation & Visualization
+- **Matplotlib / Seaborn** – For plotting training metrics and confusion matrix.
+
+### 🛠️ Tools & Environment
+- **Jupyter Notebook** – For model prototyping.
+- **Google Colab** – (Optional) Used for training on GPU.
+- **Git & GitHub** – For version control and collaboration.
 
 ## Developers
 
