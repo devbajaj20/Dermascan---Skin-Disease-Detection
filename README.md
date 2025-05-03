@@ -1,7 +1,7 @@
  HEAD
 <div align ='center'>
   
-# 18CSC305J - AI
+
 ### Domain : Machine Learning / AI
   
   </div>
@@ -131,42 +131,3 @@ Dermascan is an AI-powered web-based application designed to detect common skin 
 
 
 
-<<<<<<< HEAD
-
-
-<td>
-
-Mahima Khatri
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/77387745?v=4"  height="120"
-alt="Mahima Khatri">
-</p>
-<p align="center">
-<a href = "https://github.com/MahimaKhatri" target="_blank"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/mahima-khatri-434a3b193/" target="_blank">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-  
-  <td>
-
-Charvy Gugalia
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/77278889?v=4"  height="120"
-alt="Charvy">
-</p>
-<p align="center">
-<a href = "https://github.com/winee165" target="_blank"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/charvygugalia/" target="_blank">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-</tr>
-</table>
-
-=======
->>>>>>> 39d5f38aef429dd3c6e4eae5028c7f8373739a28
