@@ -53,7 +53,7 @@ The application will start running on `http://127.0.0.1:5000` (localhost:5000)
 ## Home Page
 ![home](https://github.com/user-attachments/assets/b5dacfce-faf2-44a2-9722-b6996f6d49e9)
 
-## Skin Disease Diganosis Page
+## Skin Disease Diagnosis Page
 ![Screenshot 2025-05-03 224105](https://github.com/user-attachments/assets/37dd61ff-cf6e-48cf-bea1-f09c5b84f90c)
 
 ## Skin Disease Result Page
