@@ -1,0 +1,89 @@
+<!-- templates/result.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Detection Result</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            background-color: #1e1e1e;
+            max-width: 600px;
+            margin: 60px auto;
+            padding: 40px 30px;
+            border-radius: 16px;
+            box-shadow: 0 8px 30px rgba(146, 106, 212, 0.5);
+            text-align: center;
+        }
+
+        h2 {
+            color: #926ad4;
+            margin-bottom: 25px;
+            font-size: 26px;
+        }
+
+        img {
+            max-width: 90%;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 6px 30px rgba(146, 106, 212, 0.3);
+            margin-bottom: 25px;
+        }
+
+        p {
+            font-size: 16px;
+            margin: 10px 0;
+        }
+
+        p strong {
+            color: #aaa;
+        }
+
+        .btn-back {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 12px 24px;
+            background-color: #926ad4;
+            color: #000;
+            font-weight: bold;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+
+        .btn-back:hover {
+            background-color: #a987e6;
+        }
+
+        .credit {
+            text-align: center;
+            font-size: 13px;
+            color: #888;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Prediction Result</h2>
+        <img src="{{ image_path }}" alt="Uploaded Image">
+
+        <p><strong>Predicted Disease:</strong> {{ prediction }}</p>
+        <p><strong>Confidence:</strong> {{ confidence }}%</p>
+
+        <a href="{{ url_for('detect') }}" class="btn-back">Try Another Image</a>
+    </div>
+
+    <div class="credit">Created by <strong>Dev & Akankshya</strong> | All rights reserved</div>
+
+</body>
+</html>

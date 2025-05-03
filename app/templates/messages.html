@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Submitted Messages</title>
+    <style>
+        table {
+            width: 90%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 2px solid #926ad4;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f3e8ff;
+        }
+    </style>
+</head>
+<body>
+    <h2 style="text-align: center;">Submitted Messages</h2>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Number</th>
+            <th>Message</th>
+        </tr>
+        {% for name, email, number, message in messages %}
+        <tr>
+            <td>{{ name }}</td>
+            <td>{{ email }}</td>
+            <td>{{ number }}</td>
+            <td>{{ message }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
