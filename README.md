@@ -28,12 +28,12 @@ Dermascan is an AI-powered web-based application designed to detect common skin 
 Devashish Bajaj
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/77278889?v=4"  height="120"
-alt="Devashish Bajaj">
+
 </p>
 <p align="center">
 <a href = "https://github.com/devbajaj20" target="_blank"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/dev-bajaj-a9a586250" target="_blank">
+  <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
 </td>
