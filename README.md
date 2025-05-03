@@ -1,6 +1,8 @@
 # Dermascan---Skin-Disease-Detection
 Dermascan is an AI-powered web-based application designed to detect common skin diseases from images using deep learning techniques. It helps users analyze skin conditions and provides preliminary diagnostic support, promoting early detection and better skincare.
 
+![home](https://github.com/user-attachments/assets/b5dacfce-faf2-44a2-9722-b6996f6d49e9)
+
 ## 🛠️ Technology Stack
 
 ### 💻 Frontend
